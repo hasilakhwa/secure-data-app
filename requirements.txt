@@ -1,4 +1,8 @@
 streamlit==1.10.0
-pycryptodome==3.10.1
 altair==4.2.2
-cryptography==41.0.5
+cryptography==42.0.5
+pandas==2.2.3
+python-dotenv==1.0.1
+pycryptodome==3.10.1
+numpy==2.2.5
+
