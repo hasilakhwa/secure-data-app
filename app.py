@@ -209,7 +209,8 @@ elif choice == "Login":
             st.session_state.failed = 0
             st.session_state.auth = True
             st.session_state.just_logged_in = True
-            st.rerun()
+            st.experimental_rerun()
+
         else:
             st.error("❌ Wrong password!")
 
