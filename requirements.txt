@@ -1,3 +1,4 @@
 streamlit==1.10.0
 pycryptodome==3.10.1
 altair==4.2.2
+cryptography==41.0.5
